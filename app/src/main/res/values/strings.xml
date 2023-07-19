@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Switch</string>
+
+    <string-array name="timer_set">
+        <item>Not Set</item>
+        <item>Set On</item>
+        <item>Set Off</item>
+    </string-array>
+</resources>

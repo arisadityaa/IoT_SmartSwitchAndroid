@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302512288827",
+    "firebase_url": "https://smartswitch-f9381-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartswitch-f9381",
+    "storage_bucket": "smartswitch-f9381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302512288827:android:7a5daffc4eee2993a0581e",
+        "android_client_info": {
+          "package_name": "com.example.smartswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302512288827-ha2e3godv2j1rhvq6mvd49kuvuick9lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPRRCJFr6pnSbrpIncv6ZJ8DxfIJSnTaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302512288827-ha2e3godv2j1rhvq6mvd49kuvuick9lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
